@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JosephRidge/Beautiful_Arts.git"
+    "url": "git+https://github.com/BrozTech-84/Beautiful_Arts.git"
   },
-  "author": "Joseph Ridge",
+  "author": "Joseph Mae",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JosephRidge/Beautiful_Arts/issues"
+    "url": "https://github.com/BrozTech-84/Beautiful_Arts/issues"
   },
-  "homepage": "https://github.com/JosephRidge/Beautiful_Arts#readme",
+  "homepage": "https://github.com/BrozTech-84/Beautiful_Arts#readme",
   "dependencies": {
     "bootstrap": "^5.3.8"
   }
